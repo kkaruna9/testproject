@@ -1,6 +1,6 @@
 import requests
 api_url ="https://testholder.com"
-response = request.get(f"{api_url}/(num)
+response = request.get(f"{api_url}/(num))
 print(response.json())
 
 def findthemutiple(num)
