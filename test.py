@@ -8,7 +8,7 @@ def findthemutiple(num)
 		return 'GN'
 	
 	elif num %3 ==0:
-	    return 'G'
+	    	return 'G'
 		
 	elif num %5 ==0:
 		return 'N'
